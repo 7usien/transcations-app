@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/transcations-app/static/css/main.4013cee1.chunk.css",
+    "main.js": "/transcations-app/static/js/main.a1615271.chunk.js",
+    "main.js.map": "/transcations-app/static/js/main.a1615271.chunk.js.map",
+    "runtime-main.js": "/transcations-app/static/js/runtime-main.00a010f8.js",
+    "runtime-main.js.map": "/transcations-app/static/js/runtime-main.00a010f8.js.map",
+    "static/js/2.5954a316.chunk.js": "/transcations-app/static/js/2.5954a316.chunk.js",
+    "static/js/2.5954a316.chunk.js.map": "/transcations-app/static/js/2.5954a316.chunk.js.map",
+    "index.html": "/transcations-app/index.html",
+    "static/css/main.4013cee1.chunk.css.map": "/transcations-app/static/css/main.4013cee1.chunk.css.map",
+    "static/js/2.5954a316.chunk.js.LICENSE.txt": "/transcations-app/static/js/2.5954a316.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00a010f8.js",
+    "static/js/2.5954a316.chunk.js",
+    "static/css/main.4013cee1.chunk.css",
+    "static/js/main.a1615271.chunk.js"
+  ]
+}
